@@ -1,0 +1,15 @@
+.box1 {
+  width: 300px;
+  height: 300px;
+  background-color: #DDDDDD;
+  padding: 30px;
+  box-sizing: border-box;
+}
+.box2 {
+  width: 100px;
+  height: 100px;
+  background-color: #CCCCCC;
+  /*  ↓枠線  */
+  border: 5px solid #EEEEEE;
+  box-sizing: border-box;
+}
